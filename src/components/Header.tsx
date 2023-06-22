@@ -1,9 +1,7 @@
-import { useState } from 'react'
 import { List } from "phosphor-react";
 import logoSemFundo from "../../public/logo-s-fundo.png"
 
 export function Header() {
-  const [openProfile, setOpenProfile] = useState(false)
 
   return (
     <div className="w-full h-[120px] flex items-center justify-center border-solid border-b border-separatorHeader">
