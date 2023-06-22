@@ -9,7 +9,6 @@ export default {
       backgroundImage: {
         'background': "url('./public/background.png')",
         'banner': "url('./public/banner.png')",
-        'teste': "url('./public/Group6.png')"
       }
     },
 
