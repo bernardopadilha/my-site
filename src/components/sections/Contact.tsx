@@ -2,7 +2,10 @@ import { Envelope, GithubLogo, LinkedinLogo, Phone } from "phosphor-react";
 
 export function Contact() {
   return (
-    <div className="w-full max-w-[1440px] px-8 md:px-[5.625rem] pb-[55px] flex flex-col items-start justify-center">
+    <section
+      id="contatos"
+      className="w-full max-w-[1440px] px-8 md:px-[5.625rem] pb-[55px] flex flex-col items-start justify-center"
+    >
       <h1 className="text-3xl md:text-4xl font-semibold mt-24 mb-9">Contato</h1>
 
       <div className="w-full md:px-[11.75rem]">
@@ -32,6 +35,6 @@ export function Contact() {
       <p className="font-bold text-text opacity-40 mt-24 mx-auto">
         Feito por Bernardo Alves Padilha
       </p>
-    </div>
+    </section>
   );
 }

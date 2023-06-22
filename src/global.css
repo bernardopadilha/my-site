@@ -5,3 +5,7 @@
 body, input, textarea, button {
     @apply font-Poppins 
 }
+
+html {
+    @apply scroll-smooth
+}

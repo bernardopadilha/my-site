@@ -3,9 +3,14 @@ import { CardProject } from "../CardProject";
 
 export function Projects() {
   return (
-    <div className="w-full h-[full] flex flex-col items-center justify-start bg-background bg-center bg-cover bg-no-repeat">
+    <section
+      id="projetos"
+      className="w-full h-[full] flex flex-col items-center justify-start bg-background bg-center bg-cover bg-no-repeat"
+    >
       <div className="w-full max-w-[1440px] px-8 md:px-[5.625rem]">
-        <h1 className="mt-[6rem] text-4xl md:text-5xl text-white font-bold">Projetos</h1>
+        <h1 className="mt-[6rem] text-4xl md:text-5xl text-white font-bold">
+          Projetos
+        </h1>
 
         {products.map((product) => {
           return (
@@ -20,6 +25,6 @@ export function Projects() {
           );
         })}
       </div>
-    </div>
+    </section>
   );
 }

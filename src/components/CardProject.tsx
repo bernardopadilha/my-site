@@ -32,7 +32,9 @@ export function CardProject({
               })}
             </div>
 
-            <p className="text-lg md:text-2xl font-regular md:font-bold text-white mt-7">{content}</p>
+            <p className="text-lg md:text-2xl font-regular md:font-bold text-white mt-7">
+              {content}
+            </p>
           </div>
         </div>
 
