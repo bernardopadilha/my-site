@@ -8,8 +8,6 @@ import reactIcon from "../../public/react.png";
 import jsIcon from "../../public/js.png";
 import tsIcon from "../../public/ts.png";
 import tailwindIcon from "../../public/tailwind.png";
-import htmlIcon from "../../public/html.png";
-import cssIcon from "../../public/css.png";
 
 export const products = [
   {
