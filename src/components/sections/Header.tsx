@@ -1,5 +1,4 @@
 import { List } from "phosphor-react";
-import logo from "../../../public/logo.png"
 import { useState } from "react";
 
 export function Header() {
@@ -11,7 +10,7 @@ export function Header() {
         <div className="w-full flex items-center justify-between">
           <div className="md:hidden"></div>
           <div>
-            <img className="h-[60px]" src={logo} alt="" />
+            <img className="h-[60px]" src="/logo.svg" alt="" />
           </div>
           <nav className="hidden md:flex">
             <ul className="flex items-center justify-center gap-20">

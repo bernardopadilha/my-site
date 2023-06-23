@@ -8,7 +8,8 @@
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "start:format": "prettier --write \"src/**/*.{js,ts,tsx}\""
+    "start:format": "prettier --write \"src/**/*.{js,ts,tsx}\"",
+    "start": "vite start"
   },
   "dependencies": {
     "lottie-react": "^2.4.0",
