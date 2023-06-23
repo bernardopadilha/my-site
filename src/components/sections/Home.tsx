@@ -17,7 +17,7 @@ export function Home() {
         </div>
         <p className="text-xl md:text-3xl font-bold mt-5 md:mt-[5.5rem]">
           Bem vindo(a) ao meu portifólio ! Nesta página você encontrará meus
-          projetos pessoais minhas skils e minhas informações de contato.
+          projetos pessoais minhas skills e minhas informações de contato.
         </p>
       </div>
 

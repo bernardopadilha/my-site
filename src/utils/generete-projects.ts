@@ -16,7 +16,7 @@ export const products = [
     banner: project_1,
     icon: [reactIcon, tsIcon, tailwindIcon],
     content:
-      "stopwatch é um site de cronometro que serve para auxiliar nas atividades desempenhada em um dia a dia qualquer, este projeto faz parte do curso da rocketseat e graças a ele tive meu primeito contato com as paginações do React e com o hook UseContext que nos permite compartilhar de forma dinâmica funções e estados com toda a aplicação.",
+      "stopwatch é um site de cronômetro que serve para auxiliar nas atividades desempenhada em um dia a dia qualquer, este projeto faz parte do curso da rocketseat e graças a ele tive meu primeiro contato com as paginações do React e com o hook UseContext que nos permite compartilhar de forma dinâmica funções e estados com toda a aplicação.",
     link: "https://github.com/BernardoPadilha/stopwatch",
   },
 
@@ -49,7 +49,7 @@ export const products = [
     icon: [reactIcon, tsIcon],
 
     content:
-      "Este projeto foi um dos módulos de aula da Rocketseat que se baseia em por meio de uma fake api o usuário pode registrar tranferências bancárias para um controle financeir. Foi aqui onde tive meu primeiro contato com api, com o fech API , o axios e os métodos de requisição.",
+      "Este projeto foi um dos módulos de aula da Rocketseat que se baseia em por meio de uma fake api o usuário pode registrar tranferências bancárias para um controle financeiro. Foi aqui onde tive meu primeiro contato com api, com o fech API , o axios e os métodos de requisição.",
     link: "https://github.com/BernardoPadilha/DT-Money",
   },
 
@@ -60,7 +60,7 @@ export const products = [
     icon: [reactIcon, jsIcon, tailwindIcon],
 
     content:
-      "Este foi o primeiro desafio do curso da Rocketseat, que se dava em escrever uma tarefa a ser concluida, e que o usuário pudesse marcar e desmarca-la e excluíla definitivamente. Por ser um dos primeiros desafios eu acabei passando bastante dificuldades com as funções, mas acabou que não desisti e consegui terminar ele.",
+      "Este foi o primeiro desafio do curso da Rocketseat, que se dava em escrever uma tarefa a ser concluída, e que o usuário pudesse marcar e desmarca-la e excluíla definitivamente. Por ser um dos primeiros desafios eu acabei passando bastante dificuldades com as funções, mas acabou que não desisti e consegui terminar ele.",
     link: "https://github.com/BernardoPadilha/to-do-list",
   },
 ];
