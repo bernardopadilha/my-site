@@ -28,7 +28,7 @@ export function Header() {
           </nav>
           <div className="hidden "></div>
             <div className="md:collapse">
-              <button type="button" onClick={(e) => setOpenMenu(!openMenu)} className=""><List size={34}/></button>
+              <button type="button" onClick={() => setOpenMenu(!openMenu)} className=""><List size={34}/></button>
           {openMenu && (
               <nav className='absolute right-0 top-[7.5rem] w-[50vw] h-[820px] bg-body opacity-70 flex flex-col justify-center'>
                 <ul className='flex flex-col items-center justify-center gap-2'>
