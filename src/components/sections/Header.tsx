@@ -10,7 +10,7 @@ export function Header() {
         <div className="w-full flex items-center justify-between">
           <div className="md:hidden"></div>
           <div>
-            <img className="h-[60px]" src="/logo.svg" alt="" />
+            <img className="h-[60px]" src="/logo.png" alt="" />
           </div>
           <nav className="hidden md:flex">
             <ul className="flex items-center justify-center gap-20">
