@@ -23,7 +23,7 @@ export function Home() {
 
       <img
         src={Banner}
-        className="mt-10 md:mt-0 w-full aspect-square md:w-[630px] md:h-[612px]"
+        className="mt-10 sm:mt-20 w-full aspect-square sm:w-[500px] sm:h-[482px] "
       />
     </section>
   );
